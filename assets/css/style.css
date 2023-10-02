@@ -123,7 +123,6 @@ nav.navbar.bootsnav {
     font-size: 20px;
     font-weight: 600;
     padding: 33px 0px 57px;
-    text-transform: uppercase;
 }
 /*.navbar-brand*/
 
@@ -293,8 +292,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     bottom: 0;
     left: 0;
     width: 109%;
-    height: 90px;
-    background: #1f2c6c;
+    height: 80px;
+    background: #43485c;
 }
 /*.ab-list-icon */
 .about-list-icon ul {
@@ -638,7 +637,6 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     background:rgba(31,44,108,.5);
     display:flex;
     align-items:center;
-    text-transform: uppercase;
     justify-content:center;
     flex-direction:row;
     -webkit-transform:scale(0);
@@ -657,6 +655,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     color: #fff;
     font-size: 14px;
     text-align: center;
+    padding: 8px;
 }
 .isotope .item:hover .isotope-overlay{
     -webkit-transform:scale(1);
